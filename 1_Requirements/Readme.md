@@ -41,3 +41,9 @@
  - Details of the coustmer is entered by them
  - Coustmer is alowed to select the choice type by pressing a number
  - Total quantity of order and product is obtained by pressing number
+ 
+ # Best methods followed
+ - Used functions to decrease dependency on main function
+ - Used decision statements  to execute the commands one bye one and follow the flow.
+ - Printf statements have been placed only wherever necessary to avoid confusions
+ - Created header file so that the fuctions can be used else where ever required without any difficulty
