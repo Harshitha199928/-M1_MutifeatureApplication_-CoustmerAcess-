@@ -1,0 +1,18 @@
+name: Build-Linux
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: make
+      run: make /home/runner/work/M1_MutifeatureApplication_CoustmerAcess/M1_MutifeatureApplication_CoustmerAcess/3_Implimentation
+    
