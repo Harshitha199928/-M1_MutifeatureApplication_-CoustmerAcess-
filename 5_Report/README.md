@@ -12,6 +12,8 @@
   Here they can cancel or reorder the products needed and history of transaction and order details will recorded which they can go through anytime.By this application makes people   easy such that they can access many this things in single platform and save there time,also storage of there phone.
  
   # SWOT 
+  ![Swot](https://user-images.githubusercontent.com/55775183/153708957-e2371778-d93c-4f14-a0b2-d970516b7ab3.png)
+
   
   
   # 4Ws and 1H
@@ -56,6 +58,7 @@
 ![High level flowchart](https://user-images.githubusercontent.com/55775183/153703669-351a1628-9fa3-4966-a587-9d914f083f7f.png)
 
 # Lowlevel
+![Lowlevel flowchart](https://user-images.githubusercontent.com/55775183/153708945-d518c4dc-aaa1-482e-8504-cc00747b2ade.
 
 
 # Structural Diagram
