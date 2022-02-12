@@ -138,7 +138,7 @@ if(p2==3)
     else if(a==2)
     {
        printf("Enter the Ayurvedha medicine to be booked\n");
-       scanf("%s",&Sstr_medi);
+       scanf("%s",&str_medi);
 
        printf("%s  Medicine is successfully ordered\nThank you",str_medi);
     }
