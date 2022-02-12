@@ -10,18 +10,18 @@ void main()
    if(p1==1)
 {
     printf("Enter user name\n");
-    scanf("%s",str);
+    scanf("%s",&str);
     printf("Enter password\n");
-    scanf("%s",str_password); 
+    scanf("%s",&str_password); 
     printf("Logedin sucessfully\n");
     
 }
 else if(p1==2)
 {
    printf("Enter user name\n");
-    scanf("%s",str);
+    scanf("%s",&str);
     printf("Enter password\n");
-    scanf("%s",str_password); 
+    scanf("%s",&str_password); 
     printf("Logedin sucessfully\n");
 }
 else
@@ -109,16 +109,16 @@ if(p2==2)
       char str_amo[100];
       char str_phono[100];
       printf("Enter the phone number or account number to be transferred\n");
-       scanf("%s",str_phono);
+       scanf("%s",&str_phono);
        printf("Enter amount to be transfered");
-       scanf("%s",str_amo);
+       scanf("%s",&str_amo);
        printf("The amount of Rs-%s is transferred",str_amo);
    }
   else if(c==2)
    {
        char str_phono[100];
        printf("Enter the account number or phone number\n ");
-       scanf("%s",str_phono);
+       scanf("%s",&str_phono);
        printf("The account balance is 25,000\n");
    }
 }
@@ -132,13 +132,13 @@ if(p2==3)
     if(a==1)
     {
        printf("Enter the Homeopathy medicine to be booked\n");
-       scanf("%s",str_medi);
+       scanf("%s",&str_medi);
        printf("%s  Medicine is successfully ordered\nThank you",str_medi);
     }
     else if(a==2)
     {
        printf("Enter the Ayurvedha medicine to be booked\n");
-       scanf("%s",str_medi);
+       scanf("%s",&Sstr_medi);
 
        printf("%s  Medicine is successfully ordered\nThank you",str_medi);
     }
