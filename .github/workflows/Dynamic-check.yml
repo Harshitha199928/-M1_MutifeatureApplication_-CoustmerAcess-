@@ -19,4 +19,4 @@ jobs:
         sudo apt-get -y install valgrind
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev   
     - name: Dynamic Analysis
-      run: make /home/runner/work/M1_MutifeatureApplication_CoustmerAcess/M1_MutifeatureApplication_CoustmerAcess/3_Implimentation
+      run: make /home/runner/work/M1_MutifeatureApplication_App/M1_MutifeatureApplication_APP/3_Implimentation
