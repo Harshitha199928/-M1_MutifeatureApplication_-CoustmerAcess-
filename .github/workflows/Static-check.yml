@@ -16,4 +16,4 @@ jobs:
     - name: Install
       run: sudo apt-get install cppcheck    
     - name: Static Analysis
-      run: cppcheck --enable=all /home/runner/work/M1_MutifeatureApplication_App/M1_MutifeatureApplication_APP/3_Implimentation
+      run: cppcheck --enable=all /home/runner/work/M1_MutifeatureApplication_App/M1_MutifeatureApplication_App/3_Implimentation
