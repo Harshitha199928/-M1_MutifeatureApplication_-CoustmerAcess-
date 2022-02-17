@@ -15,4 +15,3 @@ jobs:
     - uses: actions/checkout@v2
     - name: make build_test
       run: make /home/runner/work/M1_MutifeatureApplication_App/M1_MutifeatureApplication_APP/3_Implimentation
-tmerAcess/3_Implimentation
