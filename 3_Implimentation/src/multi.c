@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include"quant.h"
 #include"banking.c"
-#include"mEdicine.c"
+#include"medicine.c"
 void main()
 {
    int c;
