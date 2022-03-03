@@ -11,6 +11,3 @@
  
  ![c and s](https://user-images.githubusercontent.com/55775183/154628666-13e3df1f-d15d-44cd-9f22-6fcc21b0fae2.png)
 
-# Learning Resources
-- Tutorials Point
-- GeeksforGeeks
