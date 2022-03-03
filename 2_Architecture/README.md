@@ -1,11 +1,11 @@
 # Design
 # Behaviour Diagram
-# High Level
+# High Level flowchart
 - High level flow chart Behaviour Diagram
 
 ![High level flowchart](https://user-images.githubusercontent.com/55775183/153703669-351a1628-9fa3-4966-a587-9d914f083f7f.png)
 
-# Lowlevel
+# Lowlevel flowchart
 ![Lowlevel flowchart](https://user-images.githubusercontent.com/55775183/153708812-626b0abc-0215-4a0f-8475-9068a4d9007d.png)
 
 
