@@ -1,3 +1,27 @@
+# High level requirements
+| ID | Description | Category | Status |
+| ----- | --------- | -------- | ------- |
+| HR1  |  User shall be able to specify the choice | Technical | Implimented |
+| HR2  |  User should be able to login or register   | Technical | Implimented |
+| HR3  |  User shall be able select the feature of there need  | Technical | Implimented |
+| HR4  |  User shall be able to book the order by menu  | Technical | Implimented |
+| HR5  |  User shall be able to perform transaction   | Technical | Implimented |
+| HR6  |  User shall be able book the order of medicine  | Technical | Implimented |
+
+# Low level requirements
+
+| ID | Description | Category | Status |
+| ----- | --------- | -------- | ------- |
+| LR1  |  Details of the user is entered by them | Technical | Implimented |
+| LR2  | user shall be able to add new registrations    | Technical | Implimented |
+| LR3  |  App is updated automatically after every action  | Technical | Implimented |
+
+
+
+
+
+
+
 # Features of Multi Features Apllication
 - Easy to customize purchase options for specific items
 - Modify/ edit or add the delivery address.
@@ -30,18 +54,7 @@
  
   
   
-  # High level requirements
-  
- - Coustmer can login or  should be able to add new registrations 
- - Application can be able to store the data and can be provided when it is need by user
- - Coustmer should choose there need app in multi apps
- - Application validates the invalid credentials and ask us to enter again if any wrong data is entered
- - Application is updated automatically after every action
-
- # Low level requirements
- - Details of the coustmer is entered by them
- - Coustmer is alowed to select the choice type by pressing a number
- - Total quantity of order and product is obtained by pressing number
+ 
  
  # Best methods followed
  - Used functions to decrease dependency on main function
