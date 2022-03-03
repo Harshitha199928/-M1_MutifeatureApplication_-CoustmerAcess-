@@ -30,10 +30,10 @@
 - Layman can access the application and order his requirements.
 
 # State of Research / Art
-  In current situation due to pandemic it is difficult to  go out to buy or access the basic needs,In order to overcome this i came up with the idea of multifeature
-  application.In this application we can access the online delivery of food and medicine and also online transaction, as sson as people open the application they can login or in     case of new user they can register and sign they will directed to the multifeature application.They can select the application prefered by them and order the products or peform   transaction.
+  In current situation due to pandemic it is difficult to  go out to buy or access the basic needs,In order to overcome this  came up with the idea of multifeature
+  application.In this application user shall access the online delivery of food and medicine and also online transaction, as sson as people open the application they shall login or in  case of new user they shall register and sign they shall directed to the multifeature application.They shall select the application prefered by them and order the products or peform   transaction.
   
-  Here they can cancel or reorder the products needed and history of transaction and order details will recorded which they can go through anytime.By this application makes people   easy such that they can access many this things in single platform and save there time,also storage of there phone.
+  Here they shall cancel or reorder the products needed and history of transaction and order details will recorded which they shall go through anytime.By this application makes people   easy such that they shall access many this things in single platform and save there time,also storage of there phone.
  
   # SWOT 
   ![Swot](https://user-images.githubusercontent.com/55775183/153708907-771495b7-30b2-4127-8c72-5826f543f253.png)
