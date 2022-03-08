@@ -13,7 +13,7 @@
  # Codiga Badges
  | Codiga code quality | Code grade |
  | ----------------- | ------- |
- |  [![Codiga Badge]https://api.codiga.io/project/31669/score/svg](https://app.codiga.io/public/project/31201/M1_MutifeatureApplication_App/dashboard) |  [![Codiga Badge](https://api.codiga.io/project/31201/status/svg)](https://app.codiga.io/public/project/31201/M1_MutifeatureApplication_App/dashboard)  |
+ |  [![Codiga Badge](https://api.codiga.io/project/31669/score/svg)](https://app.codiga.io/public/project/31669/M1_MutifeatureApplication_App/dashboard) |  ![Codiga Badge](https://api.codiga.io/project/31669/status/svg)  |
  # Codacy Badge
  
  | Codacy Bage |
